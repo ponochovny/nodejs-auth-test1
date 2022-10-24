@@ -1,1 +1,1 @@
-# nodejs-auth-test1
+# Nodejs project with authorization
